@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msx:home|Door43 (msx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msx|d43-msx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msx/archive/master.zip|d43-msx.zip]]
+
+**Recent Changes**
+{{changes>ns = msx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msx|Ethnologue data]]
+
